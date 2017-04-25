@@ -1,6 +1,6 @@
 # npmdoc-expect.js
 
-#### api documentation for  [expect.js (v0.3.1)](https://github.com/LearnBoost/expect.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-expect.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-expect.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-expect.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-expect.js)
+#### basic api documentation for  [expect.js (v0.3.1)](https://github.com/LearnBoost/expect.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-expect.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-expect.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-expect.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-expect.js)
 
 #### BDD style assertions for node and the browser.
 
@@ -47,7 +47,8 @@
         "type": "git",
         "url": "git://github.com/LearnBoost/expect.js.git"
     },
-    "version": "0.3.1"
+    "version": "0.3.1",
+    "bin": {}
 }
 ```
 
